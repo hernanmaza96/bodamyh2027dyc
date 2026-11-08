@@ -1059,7 +1059,7 @@ signature: 'Con cariño, Hernán.'
 'santiago cagni': {
 name: 'Taty',
 role: 'Tenés el honor de ser mi padrino.',
-message: 'Tener un amigo como vos es una gran suerte. Gracias por estar siempre cerca, por el aguante incondicional y por aceptar ser mi padrino en este nuevo capítulo.',
+message: 'Un amigo como vos vale oro. Gracias por bancarme siempre, por las charlas, por las risas y por aceptar ser mi padrino en esta noche. ¡A festejar como se debe!',
 signature: 'Con cariño, Hernán.'
 },
 'fiamma mendoza': {
