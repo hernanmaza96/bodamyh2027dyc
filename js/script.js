@@ -1064,7 +1064,7 @@ signature: 'Con cariño, Hernán.'
 },
 'fiamma mendoza': {
 name: 'Enana',
-role: 'Tenés el honor de ser mi madrina.',
+role: 'Tenés el honor de ser mi dama de honor.',
 message: 'Amiga de mi corazón, gracias por cada momento de locura que vivimos. Te invito a que vivamos juntas uno más, estoy muy emocionada de que seas mi dama de honor se que le vas a poner ese toque especial de locura, igual no te zarpes jajaj. te amo amiga, gracias por tanto.',
 signature: 'Con cariño, María'
 },
