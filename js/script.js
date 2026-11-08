@@ -1063,9 +1063,9 @@ message: 'Un amigo como vos vale oro. Gracias por bancarme siempre, por las char
 signature: 'Con cariño, Hernán.'
 },
 'fiamma mendoza': {
-name: 'Fiamma',
+name: 'Enana',
 role: 'Tenés el honor de ser mi madrina.',
-message: 'Gracias por tu amistad, por estar siempre y por compartir conmigo tantos momentos lindos. Me hace muy feliz que seas mi madrina y me acompañes en un día tan importante. Te quiero mucho.',
+message: 'Amiga de mi corazón, gracias por cada momento de locura que vivimos. Te invito a que vivamos juntas uno más, estoy muy emocionada de que seas mi dama de honor se que le vas a poner ese toque especial de locura, igual no te zarpes jajaj. te amo amiga, gracias por tanto.',
 signature: 'Con cariño, María'
 },
 'anahi islas': {
