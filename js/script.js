@@ -1071,7 +1071,7 @@ signature: 'Con cariño, María'
 'anahi islas': {
 name: 'Anahi',
 role: 'Tenés el honor de ser mi dama de honor.',
-message: 'Hernama mayor, gracias por estar cada vez que te necesito, gracias por esa complicidad que brindas, gracias por ser una buena hermana. Que feliz me hace tenerte como mi Dama de honor, lo vamos a disfrutar un monton con tus ocurrencias jajaj. Te amo hermana.',
+message: 'Hermana mayor, gracias por estar cada vez que te necesito, gracias por esa complicidad que brindas, gracias por ser una buena hermana. Que feliz me hace tenerte como mi Dama de honor, lo vamos a disfrutar un monton con tus ocurrencias jajaj. Te amo hermana.',
 signature: 'Con cariño, María'
 }
 };
